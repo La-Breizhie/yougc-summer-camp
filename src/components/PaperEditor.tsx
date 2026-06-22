@@ -93,7 +93,7 @@ export default function PaperEditor({ initialValue, onSave }: PaperEditorProps) 
           htmlFor="letter"
           className="mb-3 block text-sm font-bold uppercase tracking-[0.25em] text-[#8a6e93]"
         >
-          Page d'écriture
+          Page d&apos;écriture
         </label>
         <textarea
           id="letter"
